@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jihye-b
 - 👀 I’m interested in Edge Computing
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Task Offloading in MEC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> (email) cjstk172@naver.com
 
